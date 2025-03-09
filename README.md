@@ -46,4 +46,4 @@ Contribuições são bem-vindas! Se você encontrar algum problema ou tiver suge
 
 ---
 
-📌 Desenvolvido por **[Francisco Goya]** como parte do curso de **[Análise e Desenvolvimento de Sistemas]** na **[UNISINOS]**.
+📌 Desenvolvido por **[Francisco Goya](https://github.com/FranciscoGoyaAMC)** como parte do curso de **[Análise e Desenvolvimento de Sistemas]** na **[UNISINOS](https://unisinos.br/)**.
